@@ -1,0 +1,18 @@
+payload:
+ - DOMAIN-SUFFIX,cc
+ - DOMAIN-SUFFIX,co.jp
+ - DOMAIN-SUFFIX,jp
+ - DOMAIN-SUFFIX,blizzard.com
+ - DOMAIN-SUFFIX,desmume.org
+ - DOMAIN-SUFFIX,imei.info
+ - DOMAIN-SUFFIX,linkedin.cn
+ - DOMAIN-SUFFIX,media-imdb.com
+ - DOMAIN-SUFFIX,nintendo.com
+ - DOMAIN-SUFFIX,notion.so
+ - DOMAIN-SUFFIX,overwolf.com
+ - DOMAIN-SUFFIX,roland.com
+ - DOMAIN-SUFFIX,uhdpaper.com
+ - DOMAIN-SUFFIX,weibo.com
+# Lite
+ - DOMAIN-SUFFIX,limbopro.com
+ - DOMAIN-SUFFIX,skrbtre.top

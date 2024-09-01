@@ -1,0 +1,5 @@
+payload:
+ - DOMAIN-SUFFIX,dropbox.com
+ - DOMAIN-SUFFIX,dropboxapi.com
+ - DOMAIN-SUFFIX,dropboxcaptcha.com
+ - DOMAIN-SUFFIX,dropboxusercontent.com

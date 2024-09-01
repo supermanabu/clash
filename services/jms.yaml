@@ -1,0 +1,55 @@
+proxies:
+  - name: "ss1"
+    type: ss
+    server: c19s1.portablesubmarines.com
+    port: 5958
+    cipher: aes-256-gcm
+    password: jD3G2vYPe2se4dst
+    udp: true
+  - name: "ss2"
+    type: ss
+    server: c19s2.portablesubmarines.com
+    port: 5958
+    cipher: aes-256-gcm
+    password: jD3G2vYPe2se4dst
+    udp: true
+  - name: "vmess3"
+    type: vmess
+    server: c19s3.portablesubmarines.com
+    port: 5958
+    uuid: 25c54629-8db1-413c-87ef-4f13e2d293fb
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: "vmess4"
+    type: vmess
+    server: c19s4.portablesubmarines.com
+    port: 5958
+    uuid: 25c54629-8db1-413c-87ef-4f13e2d293fb
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: "vmess5"
+    type: vmess
+    server: c19s5.portablesubmarines.com
+    port: 5958
+    uuid: 25c54629-8db1-413c-87ef-4f13e2d293fb
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: "vmess801"
+    type: vmess
+    server: c19s801.portablesubmarines.com
+    port: 5958
+    uuid: 25c54629-8db1-413c-87ef-4f13e2d293fb
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true

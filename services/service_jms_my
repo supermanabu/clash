@@ -1,0 +1,12 @@
+service JMS-27625
+port 5958
+ss_cipher aes-256-gcm
+ss_password jD3G2vYPe2se4dst
+vmess_uuid 25c54629-8db1-413c-87ef-4f13e2d293fb
+servers
+	ss c19s1.jjcruises.com
+	ss c19s2.jjcruises.com
+	vmess c19s3.jjcruises.com
+	vmess c19s4.jjcruises.com
+	vmess c19s5.jjcruises.com
+	vmess c19s801.jjcruises.com
