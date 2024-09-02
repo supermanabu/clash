@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN,googleads.g.doubleclick.net
-  - DOMAIN,ssl.gstatic.com
-  - DOMAIN-SUFFIX,googleadservices.com
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,ggpht.com
+#  - DOMAIN,googleads.g.doubleclick.net
+#  - DOMAIN,ssl.gstatic.com
+#  - DOMAIN-SUFFIX,googleadservices.com
+#  - DOMAIN-SUFFIX,googlesyndication.com
+#  - DOMAIN-SUFFIX,gstatic.com
+#  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,wps.com
