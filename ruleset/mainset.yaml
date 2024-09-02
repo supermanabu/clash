@@ -1,6 +1,5 @@
 payload:
  - DOMAIN-SUFFIX,cc
- - DOMAIN-SUFFIX,clashroyaleapp.com
  - DOMAIN-SUFFIX,co.jp
  - DOMAIN-SUFFIX,jp
  - DOMAIN-SUFFIX,blizzard.com
@@ -15,6 +14,8 @@ payload:
  - DOMAIN-SUFFIX,spiceworks.com
  - DOMAIN-SUFFIX,uhdpaper.com
  - DOMAIN-SUFFIX,weibo.com
+# iPhone
+ - DOMAIN-SUFFIX,clashroyaleapp.com
 # Lite
  - DOMAIN-SUFFIX,limbopro.com
  - DOMAIN-SUFFIX,skrbtre.top
