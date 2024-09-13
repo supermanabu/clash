@@ -1,9 +1,11 @@
 payload:
+ - DOMAIN-SUFFIX,alltrails.com
  - DOMAIN-SUFFIX,blizzard.com
  - DOMAIN-SUFFIX,cc
  - DOMAIN-SUFFIX,clash-cn.com
  - DOMAIN-SUFFIX,co.jp
  - DOMAIN-SUFFIX,desmume.org
+ - DOMAIN-SUFFIX,eu
  - DOMAIN-SUFFIX,imei.info
  - DOMAIN-SUFFIX,jp
  - DOMAIN-SUFFIX,linkedin.cn
