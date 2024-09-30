@@ -6,4 +6,5 @@ payload:
  - DOMAIN,telemetry-in.battle.net
  - DOMAIN-SUFFIX,mtcontent.rs    # Omega Ruby ROM download
  - DOMAIN-SUFFIX,githubusercontent.com    # Omega Ruby ROM download
+ - DOMAIN-SUFFIX,riotcdn.net    # Riot Games Download
 
